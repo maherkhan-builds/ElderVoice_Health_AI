@@ -1,0 +1,5 @@
+{
+  "name": "CareVoice",
+  "description": "A voice-based elderly health reporter app using natural speech-to-symptom analysis.",
+  "requestFramePermissions": ["microphone"]
+}
